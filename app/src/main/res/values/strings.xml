@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gestor de Permisos M+</string>
+    <string name="eti_localizacion">ACCES_FINE_LOCATION</string>
+    <string name="eti_camara">CAMERA</string>
+    <string name="eti_internet">INTERNET</string>
+    <string name="eti_contactos">READ_CONTACTS</string>
+    <string name="eti_almacenamiento">WRITE_EXTERNAL_STORAGE</string>
+    <string name="toast_error">Dame permiso, solo quiero espiar tus cosas :)</string>
+    <string name="toast_camara">Sonrieee :D patataaaa.</string>
+    <string name="toast_contactos">Tengo permiso para acceder a tus contactos</string>
+    <string name="toast_localizacion">Con que estabas en el trabajo ehh, ya hablaremos ya.</string>
+    <string name="menu_camara">Camara</string>
+    <string name="menu_contactos">Contactos</string>
+    <string name="menu_localizacion">Localizacion</string>
+
+</resources>
